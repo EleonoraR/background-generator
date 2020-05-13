@@ -1,0 +1,15 @@
+.btn {
+
+	font-size: 55px;
+    border: none;
+    padding: 15px 34px;
+    border-radius: 25px;
+
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
