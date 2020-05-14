@@ -1,4 +1,4 @@
-function random_color(){
+const random_color = () => {
 	const a = Math.floor(Math.random()*256);
 	const b = Math.floor(Math.random()*256);
 	const c = Math.floor(Math.random()*256);
